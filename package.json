@@ -1,7 +1,7 @@
 {
   "name": "your-project-name",
   "version": "0.0.0",
-  "homepage": "www.yemekhub.tech",
+  "homepage": "yemekhub.tech",
   "private": true,
   "type": "module",
   "scripts": {
